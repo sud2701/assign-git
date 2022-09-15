@@ -1,0 +1,4 @@
+﻿1. Gitignore is used to indicate which files should be ignored while pushing code onto the GitHub repository. Gitignore should include the README.md file for java projects.
+2. Fast-forward merges involve merging of all the staged files and forks within a branch as well as merging of that particular branch with the main branch.
+3. Different branches are required for different people working on the same file or feature. Also, main branch can’t be experimented on because it is verified and tested code. Therefore, for developing experimental features that may or may not work, branches should be used.
+4. Usually, each project has a single repository but with a number of directories, files, branches and forks.
